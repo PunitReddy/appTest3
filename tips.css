@@ -1,0 +1,77 @@
+/* body {
+    padding-top: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+      Ubuntu, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    display: flex;
+    justify-content: center;
+    color: gray;
+    background-color: #000;
+  }
+  body::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #000;
+  }
+  
+  body::-webkit-scrollbar {
+    width: 12px;
+    background-color: #000;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); 
+  /*   background-color: orangered; */
+    /* background-color: rgb(22, 46, 183);
+  }
+  h1
+  {
+    color:rgb(22, 46, 183);
+    text-align:center;  
+  }
+  img
+  {
+    margin-bottom:-30px;
+  }
+  
+  /* List */
+  /* ul {
+    counter-reset: index;
+    padding: 0;
+    max-width: 300px;
+  }
+  
+  /* List element */
+  /* li {
+    counter-increment: index;
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    box-sizing: border-box;
+  } */
+   
+   /* Element counter */
+/* li::before {
+  content: counters(index, ".", decimal-leading-zero);
+  font-size: 1.5rem;
+  text-align: right;
+  font-weight: bold;
+  min-width: 30px;
+  padding-right: 12px;
+  font-variant-numeric: tabular-nums;
+  align-self: flex-start;
+  background-image: linear-gradient(to bottom, aquamarine, rgb(22, 46, 183));
+  background-attachment: fixed;
+  border-radius: 50%;
+  -webkit-text-fill-color: transparent;
+  margin-right: 20px;
+} */
+  
+  /* Element separation */
+  li + li {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+
+
+
+  
